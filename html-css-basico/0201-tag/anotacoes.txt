@@ -1,0 +1,6 @@
+Um documento HTML é formado por diversas tags, que servem para marcarmos o conteúdo dentro do HTML.
+
+Case insensitive, mas é boa pratica escrever com letras minúsculas sem acento, espaços e caracteres especiais.
+
+Atributo: dão informações extras sobre uma tag para o browser.
+
